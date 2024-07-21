@@ -1,4 +1,4 @@
-# Undervalue-Companies
+# UNDERVALUE COMPANIES
 ## Introduction
 The purpose of this report is identify undervalued company in different sectors including design, technology, Cement sector in Nigeria, and energy sector by cross examining there GP and GPG with other companies in there sector peers. Also to develop a valuation model to project the companies true value in 4 years.
 ## Data Collection
@@ -21,12 +21,23 @@ After comparing the the market cap, Total revenue, net income of these companies
 ![Technology](https://github.com/user-attachments/assets/2e8ddd0a-3b65-443c-8c67-5459640601b9)
 
 #### Blackebrry performance last year was below per
-
+![energies](https://github.com/user-attachments/assets/452f28b8-1dd5-434d-bbd5-eca72cb2a333)
+#### It can be seen that ESSO Energies has the lowest Revenue as well as Netincome
 ## Valuation modeling
 By developing a valuation modeling to determine the future value of the companied in 4 years time.
 ![Projected Futwears](https://github.com/user-attachments/assets/bb08639d-4655-4008-96d6-354c5bb57659)
+The projected market cap for puma is 175.64Million USD 
 ![Projectd cement](https://github.com/user-attachments/assets/7471828d-829f-4607-a2ee-ea3e9d7be8de)
+
+The projected market cap for UACN is 210747.62Million NGN
+
 ![projected tech](https://github.com/user-attachments/assets/1797d790-a42d-48a6-a9b0-4baac93c32c6)
+The projecetd market cap for Blackberry inc is 6152.08Million USD
+ 
+![Projeceted sector](https://github.com/user-attachments/assets/7002d7ab-7979-428b-8960-6f547288b35f)
+
+The projected Market cap for ESSO Energy is 696.06million USD
+
 ## Additional variables impact 
 Additional variables like economic factors, technologies advancement as well as weather impact can affect the values of these companies in years to come. 
 #### Explanation
@@ -35,5 +46,6 @@ Economic factors: change government power can lead to change of government polic
 Weather impact: the changes in atmospheric weather conditions can affect each and every companies under the cement and energy sector.
 ## Conclusions 
 It's concluded that all this companies are undervalued compared to there peers in each sector. And a projected values shows that some of them can meet up with other companies in there sector under normal conditions but most can't meet especially blackberry Inc and puma which has no GP respectively. 
-#### References: here is the  link to the full table and the calculations
-#### Note : all the metric are in millions Naira for the companies in Nigeria and million dollars for companies out of Nigeria 
+#### References: here is the  link to the full table and the calculations.
+https://docs.google.com/spreadsheets/d/1If4cuQu82d9l7obQ-9AF_v7QLAocNFxL/edit?usp=sharing&ouid=100485104845932051388&rtpof=true&sd=true
+#### Note : all the metric are in millions.
